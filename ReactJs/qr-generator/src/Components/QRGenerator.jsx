@@ -81,7 +81,7 @@ const QRGenerator = () => {
             transition={{ duration: 0.5 }}
           >
             <h3>Latest QR Code</h3>
-            <QRCodeCanvas value={qrData[0].text} size={180} />
+            <QRCodeCanvas value={qrData[0].text} size={180} style={{border:'10px double', borderRadius:'10px'}}/>
             <p>{qrData[0].text}</p>
           </motion.div>
         )}
@@ -103,7 +103,7 @@ const QRGenerator = () => {
               transition={{ duration: 0.3, delay: index * 0.05 }}
               className="qr-item"
             >
-              <QRCodeCanvas value={item.text} size={64} />
+              <QRCodeCanvas value={item.text} size={64} style={{border:'10px double', borderRadius:'10px'}}/>
               <div className="qr-info">
                 {editIndex === index ? (
                   <>
