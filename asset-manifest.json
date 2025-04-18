@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Manoharmamidi2001/qr-code-generator/static/css/main.479f1dd1.css",
-    "main.js": "/Manoharmamidi2001/qr-code-generator/static/js/main.9a35905d.js",
-    "index.html": "/Manoharmamidi2001/qr-code-generator/index.html",
-    "main.479f1dd1.css.map": "/Manoharmamidi2001/qr-code-generator/static/css/main.479f1dd1.css.map",
-    "main.9a35905d.js.map": "/Manoharmamidi2001/qr-code-generator/static/js/main.9a35905d.js.map"
+    "main.css": "/qr-code-generator/static/css/main.479f1dd1.css",
+    "main.js": "/qr-code-generator/static/js/main.9a35905d.js",
+    "index.html": "/qr-code-generator/index.html",
+    "main.479f1dd1.css.map": "/qr-code-generator/static/css/main.479f1dd1.css.map",
+    "main.9a35905d.js.map": "/qr-code-generator/static/js/main.9a35905d.js.map"
   },
   "entrypoints": [
     "static/css/main.479f1dd1.css",
