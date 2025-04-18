@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Manoharmamidi2001/qr-code-generator/static/css/main.479f1dd1.css",
+    "main.js": "/Manoharmamidi2001/qr-code-generator/static/js/main.b135f19b.js",
+    "index.html": "/Manoharmamidi2001/qr-code-generator/index.html",
+    "main.479f1dd1.css.map": "/Manoharmamidi2001/qr-code-generator/static/css/main.479f1dd1.css.map",
+    "main.b135f19b.js.map": "/Manoharmamidi2001/qr-code-generator/static/js/main.b135f19b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479f1dd1.css",
+    "static/js/main.b135f19b.js"
+  ]
+}
